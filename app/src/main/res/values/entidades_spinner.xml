@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- String para seleccionar entidad en el menu de generar turno -->
+    <string name="Instituciones_financieras">Finanzas</string>
+    <string name="Supermercados">Supermercado</string>
+    <string name="Instituciones_de_salud">Salud</string>
+    <string name="Instituciones_de_gobierno">Gobierno</string>
+
+    <!-- Array para mostrar opciones de seleccion en spinner -->
+    <string-array name="entidad_spinner">
+        <item>seleccione una entidad</item>
+        <item>Finanzas</item>
+        <item>Supermercado</item>
+        <item>Salud</item>
+        <item>Gobierno</item>
+    </string-array>
+</resources>
